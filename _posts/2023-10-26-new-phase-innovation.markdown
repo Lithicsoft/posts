@@ -43,12 +43,12 @@ We have invested in upgrading our facilities and equipment for chatbot developme
 
 We devise and implement solutions every day to overcome challenges and help Lithicsoft achieve its vision and objectives.
 
-##### 1 - Launch Unet System 2 by May 1, next year.
-##### 2 - Accelerate the development of Unet and Lithicsoft Research AI with efficiency and quality.
-##### 3 - Resolve any issues that impede development.
-##### 4 - Rebuild Lithicsoft Inc.
-##### 5 -Optimize Lithicsoft Inc.'s operations and performance.
-##### 6 - Foster a community of developers and supporters who are passionate about Unet and Lithicsoft's Software.
+#### 1 - Launch Unet System 2 by May 1, next year.
+#### 2 - Accelerate the development of Unet and Lithicsoft Research AI with efficiency and quality.
+#### 3 - Resolve any issues that impede development.
+#### 4 - Rebuild Lithicsoft Inc.
+#### 5 -Optimize Lithicsoft Inc.'s operations and performance.
+#### 6 - Foster a community of developers and supporters who are passionate about Unet and Lithicsoft's Software.
 
 We hope to achieve great results in the future with these proposals.
 
