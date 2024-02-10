@@ -52,7 +52,7 @@ We devise and implement solutions every day to overcome challenges and help Lith
 
 We hope to achieve great results in the future with these proposals.
 
-## Sincerely thanks!
+## Sincere thanks to those who have accompanied and supported us all the time!
 
 <span style="font-size: 11pt;">Dennis Bonke
 ([@Dennisbonke](https://github.com/Dennisbonke))
