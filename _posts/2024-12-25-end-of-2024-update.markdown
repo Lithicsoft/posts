@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  End of 2024 Update
-excerpt: As the end of 2024 and 2025 approaches, let's look back at Lithicsoft's journey and the achievements we have made.
+excerpt: As 2024 comes to an end and 2025 approaches, let's look back at Lithicsoft's journey and what we've accomplished.
 ---
 <span style="font-size: 11pt;">Post by Bùi Nguyễn Tấn Sang
 ([@EndermanPC](https://github.com/EndermanPC))
