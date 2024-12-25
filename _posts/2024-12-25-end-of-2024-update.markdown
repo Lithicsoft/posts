@@ -9,7 +9,7 @@ excerpt: As the end of 2024 and 2025 approaches, let's look back at Lithicsoft's
 
 ## Happy to See You Again
 
-This post reflects over a year of our work and what we have achieved so far. As you may have seen in our post from last October, I am truly happy if you are still following us and reading this. If this is your first time here, Lithicsoft is a small non-profit organization focused on developing software products. If you are interested, you can check us out on GitHub.  
+This post reflects over a year of our work and what we have achieved so far. As you may have seen in our post from last October, I am truly happy if you are still following us and reading this. If this is your first time here, Lithicsoft is a small non-profit organization focused on developing software products. If you are interested, you can check us out on [GitHub](https://github.com/Lithicsoft).  
 
 ### Thank You 
 
@@ -50,9 +50,7 @@ As 2024 comes to an end, we’ve had a meaningful journey together. Thank you fo
 ---
 
 **Sincere Thanks To:**  
-<span style="font-size: 11pt;">
 - Andrej Bartulin ([@Andrej123456789](https://github.com/Andrej123456789))
 - Nguyễn Tri Phương ([@beterng](https://github.com/beterng))
-</span>
 
 Thank you for making this year truly special for Lithicsoft!  
