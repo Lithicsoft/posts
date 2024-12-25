@@ -1,0 +1,58 @@
+---
+layout: post
+title:  End of 2024 Update
+excerpt: As the end of 2024 and 2025 approaches, let's look back at Lithicsoft's journey and the achievements we have made.
+---
+<span style="font-size: 11pt;">Post by Bùi Nguyễn Tấn Sang
+([@EndermanPC](https://github.com/EndermanPC))
+</span>
+
+## Happy to See You Again
+
+This post reflects over a year of our work and what we have achieved so far. As you may have seen in our post from last October, I am truly happy if you are still following us and reading this. If this is your first time here, Lithicsoft is a small non-profit organization focused on developing software products. If you are interested, you can check us out on GitHub.  
+
+### Thank You 
+
+We are incredibly grateful if you are still with us. Since Lithicsoft was founded in 2018, we’ve experienced many ups and downs, and at times, we were close to shutting down. But thanks to you – those who have supported, stayed, and accompanied us – we’ve persevered to this day and learned so much along the way. At this moment, we want to express our deepest gratitude to you.  
+
+## What Have We Achieved This Past Year?
+
+This past year has been relatively good for Lithicsoft. We worked on two new projects: **Neutron** and **Trainer Studio**. Neutron is a search tool using SQL, while Trainer Studio is a "Local AutoML" that allows training machine learning models on your own computer. While neither project has reached its full potential yet, both have given us valuable opportunities to learn new skills and improve. Through these projects, we’ve realized the importance of high-quality code and ensuring practical usability. From ideas to development, we aim to improve every step of the process, staying true to our mission as a **"community-focused non-profit"** rather than producing software that falls short in real-world applications.  
+
+### Do We Still Remember Our Goals?
+
+Yes, we do. Some goals have been achieved, and others have not. Let’s take a look back at the main goals we set for ourselves last year:  
+
+1. **Launch Unet System 2 by May 1, next year.**  
+We are truly sorry and saddened to say that the Unet Operating System has been discontinued. We had to ask ourselves: *Why create a new operating system?* Existing systems like Windows, MacOS, and Linux already serve user needs well and provide reliable solutions for servers or personal use. This realization showed us that building a new OS was unnecessary and a waste of time and effort.  
+
+2. **Accelerate the development of Unet and Lithicsoft Research AI with efficiency and quality.**  
+As mentioned above, the Unet project has ended, along with Lithicsoft Research AI. However, we managed to develop two small models that taught us a lot about research. AI remains a distant goal for Lithicsoft, as we lack the resources, manpower, and capability to build large models like LLMs. Instead, we are shifting focus toward reinforcement learning and applying AI directly into our products to provide better, more realistic user experiences within our limited resources.  
+
+3. **Resolve any issues that impede development.**  
+This remains a challenge for us. I, as one of Lithicsoft’s developers, admit that laziness sometimes got the better of me, and I failed to perform my duties effectively. I want to apologize for not fully resolving certain issues that have slowed Lithicsoft down. Nevertheless, I did my best to develop some solutions to help Lithicsoft operate more efficiently.  
+
+4. **Rebuild Lithicsoft Inc.**  
+A positive step we took this year was transforming Lithicsoft into a non-profit organization, promoting open-source development, and striving to say no to proprietary software. Moving forward, we may merge our development and research teams to create more practical solutions for everyday life and the community.  
+
+5. **Optimize Lithicsoft Inc.’s operations and performance.**  
+As mentioned earlier, there are still many shortcomings. While we have improved efficiency to some extent, the quality of our code remains a concern. In the coming year, we will continue to work hard to produce better open-source research and software products.  
+
+6. **Foster a community of developers and supporters who are passionate about Unet and Lithicsoft’s software.**  
+We are lucky to have found you – those who have supported, followed, and accompanied us all this time. Your encouragement has been the greatest motivation for us to keep going.  
+
+## What Do We Hope for in 2025?  
+
+We hope that next year will continue to be a great year for us. Our main focus will be on **research** (by merging development and research efforts) to achieve milestones that provide real benefits for the community and humanity. We will continue to work on AI-related projects with practical applications – and a new project coming soon will show you exactly that.  
+
+As 2024 comes to an end, we’ve had a meaningful journey together. Thank you for staying by our side, and we look forward to an amazing 2025 with Lithicsoft.  
+
+---
+
+**Sincere Thanks To:**  
+<span style="font-size: 11pt;">
+- Andrej Bartulin ([@Andrej123456789](https://github.com/Andrej123456789))
+- Nguyễn Tri Phương ([@beterng](https://github.com/beterng))
+</span>
+
+Thank you for making this year truly special for Lithicsoft!  
